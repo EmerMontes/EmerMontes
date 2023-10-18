@@ -36,7 +36,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 
 </p>
-<h3 align="center">Skill </h3>
+<h3 align="center">Skill 😎 </h3>
 
 <p align="center">
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
