@@ -13,28 +13,26 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 💖 I like to explore new technologies 
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🎓 I'm currently studying Full Stack Developer
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Bootstrap and Angular
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- ✉️  You can shoot me an email at emermontes15@gmail.com!
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 You can contact me to participate in a project or to volunteer. 
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- ✍️  In my free time, I read the book "Sumergete en los patrones de diseño" from Alexander Shvets
 <br/>
 <h3 align="center">Connect with me 🤝 </h3>
 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/emerson-montes-422037262/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 
 </p>
