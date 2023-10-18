@@ -32,7 +32,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px  target="_blank" href="https://www.linkedin.com/in/emerson-montes-422037262/">
+        <a style="margin-left: 10px target=_blank href="https://www.linkedin.com/in/emerson-montes-422037262/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 
 </p>
