@@ -39,7 +39,14 @@
 <h3 align="center">Skill </h3>
 
 <p align="center">
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+<img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/redux.svg'>
+<img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg'>
+<img width ='32px' src ='https://www.svgrepo.com/show/374167/vite.svg'>
+<img width ='32px' src ='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png'>
 
 
 
